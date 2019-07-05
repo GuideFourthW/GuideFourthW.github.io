@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GuideFourthW</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-07-05T04:33:53.157Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>GuideFourthW</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java的影响和意义</title>
+    <link href="http://yoursite.com/2019/06/30/Java%E7%9A%84%E5%BD%B1%E5%93%8D%E5%92%8C%E6%84%8F%E4%B9%89/"/>
+    <id>http://yoursite.com/2019/06/30/Java的影响和意义/</id>
+    <published>2019-06-30T15:18:45.000Z</published>
+    <updated>2019-07-05T04:33:53.157Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>int max(int a,int b){if(a&gt;b) return a;else return b;</code></pre><p>}</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;pre&gt;&lt;code&gt;int max(int a,int b){
+if(a&amp;gt;b) return a;
+else return b;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;}&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
