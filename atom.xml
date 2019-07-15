@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-07-05T04:33:53.157Z</updated>
+  <updated>2019-07-06T16:36:49.957Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2019/06/30/Java%E7%9A%84%E5%BD%B1%E5%93%8D%E5%92%8C%E6%84%8F%E4%B9%89/"/>
     <id>http://yoursite.com/2019/06/30/Java的影响和意义/</id>
     <published>2019-06-30T15:18:45.000Z</published>
-    <updated>2019-07-05T04:33:53.157Z</updated>
+    <updated>2019-07-06T16:36:49.957Z</updated>
     
     <content type="html"><![CDATA[<pre><code>int max(int a,int b){if(a&gt;b) return a;else return b;</code></pre><p>}</p>]]></content>
     
@@ -37,6 +37,8 @@ else return b;
       
     
     </summary>
+    
+      <category term="about" scheme="http://yoursite.com/categories/about/"/>
     
     
   </entry>

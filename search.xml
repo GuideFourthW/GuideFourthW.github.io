@@ -4,5 +4,8 @@
     <title><![CDATA[Java的影响和意义]]></title>
     <url>%2F2019%2F06%2F30%2FJava%E7%9A%84%E5%BD%B1%E5%93%8D%E5%92%8C%E6%84%8F%E4%B9%89%2F</url>
     <content type="text"><![CDATA[int max(int a,int b){ if(a&gt;b) return a; else return b; }]]></content>
+      <categories>
+        <category>about</category>
+      </categories>
   </entry>
 </search>
