@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[Java的影响和意义]]></title>
-    <url>%2F2019%2F06%2F30%2FJava%E7%9A%84%E5%BD%B1%E5%93%8D%E5%92%8C%E6%84%8F%E4%B9%89%2F</url>
-    <content type="text"><![CDATA[int max(int a,int b){ if(a&gt;b) return a; else return b; }]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Java的影响和意义</title>
+      <link href="/2019/06/30/Java%E7%9A%84%E5%BD%B1%E5%93%8D%E5%92%8C%E6%84%8F%E4%B9%89/"/>
+      <url>/2019/06/30/Java%E7%9A%84%E5%BD%B1%E5%93%8D%E5%92%8C%E6%84%8F%E4%B9%89/</url>
+      
+        <content type="html"><![CDATA[<pre><code>int max(int a,int b){if(a&gt;b) return a;else return b;</code></pre><p>}</p>]]></content>
+      
+      
       <categories>
-        <category>about</category>
+          
+          <category> Essay </category>
+          
       </categories>
-  </entry>
+      
+      
+    </entry>
+    
+    
+  
+  
 </search>
