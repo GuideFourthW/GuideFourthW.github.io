@@ -587,8 +587,8 @@
 
 <!-- 网站访客数 -->
 <div class="powered-by">
-<span id="busuanzi_container_site_pv">
-    本站总访问量<span id="busuanzi_value_site_pv"></span>次
+<span id="busuanzi_container_site_uv">
+  本站总访问量<span id="busuanzi_value_site_uv"></span>次
 </span>
 </div>
 <!-- 网站字数 -->
@@ -636,10 +636,9 @@
     本站总访问量<span id="busuanzi_value_site_pv"></span>次
 </span>
 //uv的方式，单个用户连续点击n篇文章，只记录1次访客数
-<span id="busuanzi_container_site_uv">
-  本站总访问量<span id="busuanzi_value_site_uv"></span>次
-</span>
 -->
+
+
         
 <div class="busuanzi-count">
   <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
@@ -763,6 +762,32 @@
   
 
   
+  
+
+<script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+
+<script>
+  var GUEST = ['nick', 'mail', 'link'];
+  var guest = 'nick,mail,link';
+  guest = guest.split(',').filter(function(item) {
+    return GUEST.indexOf(item) > -1;
+  });
+  new Valine({
+    el: '#comments',
+    verify: false,
+    notify: false,
+    appId: 'aH9v7REURlcbPru7Eevu2d6H-gzGzoHsz',
+    appKey: 'AjzqWMFod38kVoCQ3SecQ4Lr',
+    placeholder: 'Just do it# comment box placeholder',
+    avatar: 'mm',
+    meta: guest,
+    pageSize: '10' || 10,
+    visitor: false,
+    lang: '' || 'zh-cn'
+  });
+</script>
+
+
 
 
 
