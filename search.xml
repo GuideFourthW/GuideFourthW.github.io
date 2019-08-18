@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title></title>
-    <url>%2F2019%2F07%2F01%2Findex%2F</url>
-    <content type="text"><![CDATA[]]></content>
+    <title><![CDATA[talk about software development]]></title>
+    <url>%2F2019%2F08%2F18%2Ftalk%20about%20software%20development%2F</url>
+    <content type="text"><![CDATA[我们在追求什么]]></content>
+      <categories>
+        <category>Computers</category>
+      </categories>
+      <tags>
+        <tag>思维领读</tag>
+      </tags>
   </entry>
 </search>
