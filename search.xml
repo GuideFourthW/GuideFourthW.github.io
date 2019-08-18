@@ -1,14 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[talk about software development]]></title>
-    <url>%2F2019%2F08%2F18%2Ftalk%20about%20software%20development%2F</url>
-    <content type="text"><![CDATA[我们在追求什么]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>talk about software development</title>
+      <link href="/2019/08/18/talk%20about%20software%20development/"/>
+      <url>/2019/08/18/talk%20about%20software%20development/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>我们在追求什么</p>]]></content>
+      
+      
       <categories>
-        <category>Computers</category>
+          
+          <category> Computers </category>
+          
       </categories>
-      <tags>
-        <tag>思维领读</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> 思维领读 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>滨江之遇</title>
+      <link href="/2019/08/18/%E9%81%87%E8%A7%81%E6%BB%A8%E6%B1%9F/"/>
+      <url>/2019/08/18/%E9%81%87%E8%A7%81%E6%BB%A8%E6%B1%9F/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>我们在追求什么</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Dynamic </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 杭州 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
