@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-18T15:15:29.644Z</updated>
+  <updated>2019-08-18T15:25:08.977Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,38 +17,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>talk about software development</title>
-    <link href="http://yoursite.com/2019/08/18/talk%20about%20software%20development/"/>
-    <id>http://yoursite.com/2019/08/18/talk about software development/</id>
+    <title>留记,待写</title>
+    <link href="http://yoursite.com/2019/08/18/%E7%95%99%E8%AE%B0,%E5%BE%85%E5%86%99/"/>
+    <id>http://yoursite.com/2019/08/18/留记,待写/</id>
     <published>2019-08-17T16:35:13.000Z</published>
-    <updated>2019-08-18T15:15:29.644Z</updated>
+    <updated>2019-08-18T15:25:08.977Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>我们在追求什么</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-      <category term="Computers" scheme="http://yoursite.com/categories/Computers/"/>
-    
-    
-      <category term="思维领读" scheme="http://yoursite.com/tags/%E6%80%9D%E7%BB%B4%E9%A2%86%E8%AF%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>滨江之遇</title>
-    <link href="http://yoursite.com/2019/08/18/%E9%81%87%E8%A7%81%E6%BB%A8%E6%B1%9F/"/>
-    <id>http://yoursite.com/2019/08/18/遇见滨江/</id>
-    <published>2019-08-17T16:35:13.000Z</published>
-    <updated>2019-08-18T15:18:49.567Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>我们在追求什么</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
     
     <summary type="html">
     
@@ -61,8 +36,6 @@
     
       <category term="Dynamic" scheme="http://yoursite.com/categories/Dynamic/"/>
     
-    
-      <category term="杭州" scheme="http://yoursite.com/tags/%E6%9D%AD%E5%B7%9E/"/>
     
   </entry>
   
