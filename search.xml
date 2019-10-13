@@ -1,26 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>留记,待写</title>
-      <link href="/2019/08/18/%E7%95%99%E8%AE%B0,%E5%BE%85%E5%86%99/"/>
-      <url>/2019/08/18/%E7%95%99%E8%AE%B0,%E5%BE%85%E5%86%99/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
-      
-      
+<search>
+  <entry>
+    <title><![CDATA[留记,待写]]></title>
+    <url>%2F2019%2F08%2F18%2F%E7%95%99%E8%AE%B0%2C%E5%BE%85%E5%86%99%2F</url>
+    <content type="text"><![CDATA[]]></content>
       <categories>
-          
-          <category> Dynamic </category>
-          
+        <category>Dynamic</category>
       </categories>
-      
-      
-    </entry>
-    
-    
-  
-  
+  </entry>
 </search>
