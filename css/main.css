@@ -463,7 +463,6 @@ body {
 .main-inner {
   margin: 0 auto;
   width: 700px;
-  background: white;
 }
 @media (min-width: 1200px) {
   .container .main-inner {
@@ -1829,7 +1828,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ee395d;
+  background: #ffffe8;
 }
 .feed-link,
 .chat {
@@ -2391,7 +2390,6 @@ img:hover {
 }
 .page-post-detail .comments {
   overflow: hidden;
-  background:#fff;
 }
 ul.breadcrumb {
   list-style: none;
