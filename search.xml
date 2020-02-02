@@ -1,74 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>关于自己</title>
-      <link href="/2020/01/27/%E5%85%B3%E4%BA%8E%E8%87%AA%E5%B7%B1/"/>
-      <url>/2020/01/27/%E5%85%B3%E4%BA%8E%E8%87%AA%E5%B7%B1/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>&emsp;&emsp;这么长时间以来，我仍然没有找到一个我喜欢的圈子，和内心真正契合谈的上几句的朋友。一天有24个小时，除去睡觉7个小时,剩下的17个小时里我是有16个小时都想一个人呆着，不喜与人接触。我认为原因有几下几点。<br>&emsp;&emsp;追求本质，其实这和杂乱有关。先说杂乱，我的所看见的杂乱大到城市的建筑物和知识类目繁多，小到街上人们各式各样的衣服，电脑文件的属性归类。而我的解决方式就是去按照自己的想法去处理一遍(融入新的环境也是如此)，但某些无法处理的，我就会换一个角度去说服自己。可经常这样会很累，所以我会挖掘其本质直到挖到可以接受的那一层，本质往往就是简。最后梳理其演变出的事物，思路就会畅通。<br>&emsp;&emsp;喜欢上帝视角。人与人之间的差异在于思维方式的不同，正如一千个哈姆雷特。既然如此，这最重要的思维方式常受当下所处的环境，和正交谈的内容影响，很难做到以大统一的思维来对待每一件事物。我正在尝试，并与本质相结合。例如：对于一句话我会拆成多个独立的部分将其回归到本质，再进行分析；所以我没回应要么正是在思考这个东西，要么就是推断出了你意图的最终导向并不感兴 趣。绝大多数的交谈衔接不上我内心的某个点，况且还浪费时间。</p><p><img src="https://pic.downk.cc/item/5e2dce982fb38b8c3c9c9a79.jpg" alt="image"></p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title><![CDATA[原码,反码,补码]]></title>
+    <url>%2F2020%2F02%2F02%2F%E5%8E%9F%E7%A0%81%EF%BC%8C%E5%8F%8D%E7%A0%81%EF%BC%8C%E8%A1%A5%E7%A0%81%2F</url>
+    <content type="text"><![CDATA[原码： 一位符号位表示正负，7位表示真值。 123[+1]原 = 0000 0001 [-1]原 = 1000 0001 反码：所有正数的反码是其本身;一位符号为表示正负，7位真值反转(解决计算机减法复杂问题，全部用加法代替) 123451 - 1 = 1 + (-1)= [0000 0001]原 + [1000 0001]原= [0000 0001]反 + [1111 1110]反= [1111 1111]反 = [1000 0000]原= -0 补码：所有正数的反码是其本身;反码加+1,解决反码运算出现符号0的问题，并增加了一位最小数的表示 1234(-1) + (-127) =[1000 0001]原 + [1111 1111]原= [1111 1111]补 + [1000 0001]补= [1000 0000]补]]></content>
       <categories>
-          
-          <category> Essay </category>
-          
+        <category>Computers</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 随笔 </tag>
-            
-            <tag> 三门 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>何为孤独</title>
-      <link href="/2019/12/23/%E4%BD%95%E4%B8%BA%E5%AD%A4%E7%8B%AC%EF%BC%9F/"/>
-      <url>/2019/12/23/%E4%BD%95%E4%B8%BA%E5%AD%A4%E7%8B%AC%EF%BC%9F/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>无红颜知己，无伯乐。<br>欲将愉悦之事与人分享。<br>分享之人？<br>一念附满心头<br>再念竟无一人<br>便觉可笑，做罢。<br>孤独再渗三分。<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;记与平安夜前一天，冬至后一天<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019年12月23日23点半</p>]]></content>
-      
-      
+      <tags>
+        <tag>计算机组成原理</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[关于自己]]></title>
+    <url>%2F2020%2F01%2F27%2F%E5%85%B3%E4%BA%8E%E8%87%AA%E5%B7%B1%2F</url>
+    <content type="text"><![CDATA[&emsp;&emsp;这么长时间以来，我仍然没有找到一个我喜欢的圈子，和内心真正契合谈的上几句的朋友。一天有24个小时，除去睡觉7个小时,剩下的17个小时里我是有16个小时都想一个人呆着，不喜与人接触。我认为原因有几下几点。&emsp;&emsp;追求本质，其实这和杂乱有关。先说杂乱，我的所看见的杂乱大到城市的建筑物和知识类目繁多，小到街上人们各式各样的衣服，电脑文件的属性归类。而我的解决方式就是去按照自己的想法去处理一遍(融入新的环境也是如此)，但某些无法处理的，我就会换一个角度去说服自己。可经常这样会很累，所以我会挖掘其本质直到挖到可以接受的那一层，本质往往就是简。最后梳理其演变出的事物，思路就会畅通。&emsp;&emsp;喜欢上帝视角。人与人之间的差异在于思维方式的不同，正如一千个哈姆雷特。既然如此，这最重要的思维方式常受当下所处的环境，和正交谈的内容影响，很难做到以大统一的思维来对待每一件事物。我正在尝试，并与本质相结合。例如：对于一句话我会拆成多个独立的部分将其回归到本质，再进行分析；所以我没回应要么正是在思考这个东西，要么就是推断出了你意图的最终导向并不感兴 趣。绝大多数的交谈衔接不上我内心的某个点，况且还浪费时间。]]></content>
       <categories>
-          
-          <category> Essay </category>
-          
+        <category>Essay</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 随笔 </tag>
-            
-            <tag> 杭州 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/2019/07/21/index/"/>
-      <url>/2019/07/21/index/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>随笔</tag>
+        <tag>三门</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[何为孤独]]></title>
+    <url>%2F2019%2F12%2F23%2F%E4%BD%95%E4%B8%BA%E5%AD%A4%E7%8B%AC%EF%BC%9F%2F</url>
+    <content type="text"><![CDATA[无红颜知己，无伯乐。欲将愉悦之事与人分享。分享之人？一念附满心头再念竟无一人便觉可笑，做罢。孤独再渗三分。&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;记与平安夜前一天，冬至后一天&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019年12月23日23点半]]></content>
+      <categories>
+        <category>Essay</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+        <tag>杭州</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title></title>
+    <url>%2F2019%2F07%2F21%2Findex%2F</url>
+    <content type="text"><![CDATA[]]></content>
+  </entry>
 </search>
