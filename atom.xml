@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-02T10:28:57.258Z</updated>
+  <updated>2020-02-02T10:31:35.605Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2020/02/02/%E5%8E%9F%E7%A0%81%EF%BC%8C%E5%8F%8D%E7%A0%81%EF%BC%8C%E8%A1%A5%E7%A0%81/"/>
     <id>http://yoursite.com/2020/02/02/原码，反码，补码/</id>
     <published>2020-02-01T16:00:00.000Z</published>
-    <updated>2020-02-02T10:28:57.258Z</updated>
+    <updated>2020-02-02T10:31:35.605Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>原码</strong>： 一位符号位表示正负，7位表示真值。<br>    <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">[+1]原 = </span><br><span class="line">0000 0001 [-1]原 = </span><br><span class="line">1000 0001</span><br></pre></td></tr></table></figure></p><p><strong>反码</strong>：所有正数的反码是其本身;一位符号为表示正负，7位真值反转(解决计算机减法复杂问题，全部用加法代替)<br>    <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">1 - 1 = </span><br><span class="line">1 + (-1)= </span><br><span class="line">[0000 0001]原 + [1000 0001]原= </span><br><span class="line">[0000 0001]反 + [1111 1110]反= </span><br><span class="line">[1111 1111]反 = [1000 0000]原= -0</span><br></pre></td></tr></table></figure></p><p><strong>补码</strong>：所有正数的反码是其本身;反码加+1,解决反码运算出现符号0的问题，并增加了一位最小数的表示<br>    <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">(-1) + (-127) =</span><br><span class="line">[1000 0001]原 + [1111 1111]原= </span><br><span class="line">[1111 1111]补 + [1000 0001]补= </span><br><span class="line">[1000 0000]补</span><br></pre></td></tr></table></figure></p>]]></content>
     
@@ -34,7 +34,7 @@
     
     </summary>
     
-      <category term="Computers" scheme="http://yoursite.com/categories/Computers/"/>
+      <category term="Computer" scheme="http://yoursite.com/categories/Computer/"/>
     
     
       <category term="计算机组成原理" scheme="http://yoursite.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
