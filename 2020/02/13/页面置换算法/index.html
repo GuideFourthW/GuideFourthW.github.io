@@ -100,18 +100,18 @@
 
 
 
-  <meta name="description" content="置换算法有四种：最佳置换(OPT)，先进先出(FIFO)(会产生Belady异常)，最近最少使用(LRU)，时钟(CLOCK)。前三种都比较好理解，讨论第四种；时钟算法的发明是因为FIFO缺陷，意味着性能差，而LRU虽然高效，但实现起来又太复杂。故而产生CLOCK解释：        附加一个使用位，1位表示被访问过的页，0位表示需要被替换的页。        还有空闲块可以进页时直接置为1，没有">
+  <meta name="description" content="置换算法有四种：最佳置换(OPT)，先进先出(FIFO)(会产生Belady异常)，最近最少使用(LRU)，时钟(CLOCK)。前三种都比较好理解，讨论第四种；时钟算法的发明是因为FIFO缺陷，意味着性能差，而LRU虽然高效，但实现起来又太复杂，故而产生CLOCk。解释：        附加一个使用位，1位表示被访问过的页，0位表示需要被替换的页。        还有空闲块可以进页时直接置为1，没">
 <meta name="keywords" content="操作系统原理">
 <meta property="og:type" content="article">
 <meta property="og:title" content="页面置换算法-时钟">
 <meta property="og:url" content="http://yoursite.com/2020/02/13/页面置换算法/index.html">
 <meta property="og:site_name" content="GuideFourthW">
-<meta property="og:description" content="置换算法有四种：最佳置换(OPT)，先进先出(FIFO)(会产生Belady异常)，最近最少使用(LRU)，时钟(CLOCK)。前三种都比较好理解，讨论第四种；时钟算法的发明是因为FIFO缺陷，意味着性能差，而LRU虽然高效，但实现起来又太复杂。故而产生CLOCK解释：        附加一个使用位，1位表示被访问过的页，0位表示需要被替换的页。        还有空闲块可以进页时直接置为1，没有">
+<meta property="og:description" content="置换算法有四种：最佳置换(OPT)，先进先出(FIFO)(会产生Belady异常)，最近最少使用(LRU)，时钟(CLOCK)。前三种都比较好理解，讨论第四种；时钟算法的发明是因为FIFO缺陷，意味着性能差，而LRU虽然高效，但实现起来又太复杂，故而产生CLOCk。解释：        附加一个使用位，1位表示被访问过的页，0位表示需要被替换的页。        还有空闲块可以进页时直接置为1，没">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2020-02-13T07:04:29.071Z">
+<meta property="og:updated_time" content="2020-02-13T07:05:12.396Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="页面置换算法-时钟">
-<meta name="twitter:description" content="置换算法有四种：最佳置换(OPT)，先进先出(FIFO)(会产生Belady异常)，最近最少使用(LRU)，时钟(CLOCK)。前三种都比较好理解，讨论第四种；时钟算法的发明是因为FIFO缺陷，意味着性能差，而LRU虽然高效，但实现起来又太复杂。故而产生CLOCK解释：        附加一个使用位，1位表示被访问过的页，0位表示需要被替换的页。        还有空闲块可以进页时直接置为1，没有">
+<meta name="twitter:description" content="置换算法有四种：最佳置换(OPT)，先进先出(FIFO)(会产生Belady异常)，最近最少使用(LRU)，时钟(CLOCK)。前三种都比较好理解，讨论第四种；时钟算法的发明是因为FIFO缺陷，意味着性能差，而LRU虽然高效，但实现起来又太复杂，故而产生CLOCk。解释：        附加一个使用位，1位表示被访问过的页，0位表示需要被替换的页。        还有空闲块可以进页时直接置为1，没">
 
 
 
@@ -448,7 +448,7 @@
                 
               
 
-              <time title="Erstellt: 2020-02-13 00:00:00 / Geändert am: 15:04:29" itemprop="dateCreated datePublished" datetime="2020-02-13T00:00:00+08:00">2020-02-13</time>
+              <time title="Erstellt: 2020-02-13 00:00:00 / Geändert am: 15:05:12" itemprop="dateCreated datePublished" datetime="2020-02-13T00:00:00+08:00">2020-02-13</time>
             </span>
           
 
@@ -527,7 +527,7 @@
       
 
       
-        <p>置换算法有四种：最佳置换(OPT)，先进先出(FIFO)(会产生Belady异常)，最近最少使用(LRU)，时钟(CLOCK)。<br>前三种都比较好理解，讨论第四种；时钟算法的发明是因为FIFO缺陷，意味着性能差，而LRU虽然高效，但实现起来又太复杂。故而产生CLOCK<br>解释：<br>        附加一个使用位，1位表示被访问过的页，0位表示需要被替换的页。<br>        还有空闲块可以进页时直接置为1，没有空闲块需要替换页时，指针下移寻找0位的页替换；若全为1，则全部置0然后指针指向第一块进行替换</p>
+        <p>置换算法有四种：最佳置换(OPT)，先进先出(FIFO)(会产生Belady异常)，最近最少使用(LRU)，时钟(CLOCK)。<br>前三种都比较好理解，讨论第四种；时钟算法的发明是因为FIFO缺陷，意味着性能差，而LRU虽然高效，但实现起来又太复杂，故而产生CLOCk。<br>解释：<br>        附加一个使用位，1位表示被访问过的页，0位表示需要被替换的页。<br>        还有空闲块可以进页时直接置为1，没有空闲块需要替换页时，指针下移寻找0位的页替换；若全为1，则全部置0然后指针指向第一块进行替换</p>
 
       
     </div>

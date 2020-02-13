@@ -8,7 +8,7 @@
       <link href="/2020/02/13/%E9%A1%B5%E9%9D%A2%E7%BD%AE%E6%8D%A2%E7%AE%97%E6%B3%95/"/>
       <url>/2020/02/13/%E9%A1%B5%E9%9D%A2%E7%BD%AE%E6%8D%A2%E7%AE%97%E6%B3%95/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>置换算法有四种：最佳置换(OPT)，先进先出(FIFO)(会产生Belady异常)，最近最少使用(LRU)，时钟(CLOCK)。<br>前三种都比较好理解，讨论第四种；时钟算法的发明是因为FIFO缺陷，意味着性能差，而LRU虽然高效，但实现起来又太复杂。故而产生CLOCK<br>解释：<br>        附加一个使用位，1位表示被访问过的页，0位表示需要被替换的页。<br>        还有空闲块可以进页时直接置为1，没有空闲块需要替换页时，指针下移寻找0位的页替换；若全为1，则全部置0然后指针指向第一块进行替换</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>置换算法有四种：最佳置换(OPT)，先进先出(FIFO)(会产生Belady异常)，最近最少使用(LRU)，时钟(CLOCK)。<br>前三种都比较好理解，讨论第四种；时钟算法的发明是因为FIFO缺陷，意味着性能差，而LRU虽然高效，但实现起来又太复杂，故而产生CLOCk。<br>解释：<br>        附加一个使用位，1位表示被访问过的页，0位表示需要被替换的页。<br>        还有空闲块可以进页时直接置为1，没有空闲块需要替换页时，指针下移寻找0位的页替换；若全为1，则全部置0然后指针指向第一块进行替换</p>]]></content>
       
       
       <categories>
