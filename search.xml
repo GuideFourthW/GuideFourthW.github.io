@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>如何计算访问一个磁盘扇区内容的平均时间</title>
+      <link href="/2020/02/14/%E5%A6%82%E4%BD%95%E8%AE%A1%E7%AE%97%E8%AE%BF%E9%97%AE%E4%B8%80%E4%B8%AA%E7%A3%81%E7%9B%98%E6%89%87%E5%8C%BA%E5%86%85%E5%AE%B9%E7%9A%84%E5%B9%B3%E5%9D%87%E6%97%B6%E9%97%B4/"/>
+      <url>/2020/02/14/%E5%A6%82%E4%BD%95%E8%AE%A1%E7%AE%97%E8%AE%BF%E9%97%AE%E4%B8%80%E4%B8%AA%E7%A3%81%E7%9B%98%E6%89%87%E5%8C%BA%E5%86%85%E5%AE%B9%E7%9A%84%E5%B9%B3%E5%9D%87%E6%97%B6%E9%97%B4/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>X(转一次的时间=) 60 / 旋转速率</p><p>平均寻道时间： 读写头沿径向移动，移到要读取的扇区所在磁道的上方所花费的时间。通常为3-9ms，最大可达20ms<br>平均旋转延迟 = X / 2<br>平均传送时间 ≈ ( X )/ 一个磁道总的扇区数 * 1000ms/s</p><p>平均存取时间 = 平均寻道时间+平均旋转延迟 。读取一个扇区的时间很快，通道为零点几个毫秒。因此决定一个硬盘读写速度的是它的平均时间。<br>访问一个磁盘扇区内容的平均时间 = 平均寻道时间+平均旋转时间+平均传送时间</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Computer </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 计算机系统原理 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>页面置换算法-时钟</title>
       <link href="/2020/02/13/%E9%A1%B5%E9%9D%A2%E7%BD%AE%E6%8D%A2%E7%AE%97%E6%B3%95/"/>
       <url>/2020/02/13/%E9%A1%B5%E9%9D%A2%E7%BD%AE%E6%8D%A2%E7%AE%97%E6%B3%95/</url>
