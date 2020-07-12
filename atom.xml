@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-14T15:48:50.371Z</updated>
+  <updated>2020-07-12T10:23:12.732Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>生命的意义</title>
+    <link href="http://yoursite.com/2020/07/12/%E7%94%9F%E5%91%BD%E7%9A%84%E6%84%8F%E4%B9%89/"/>
+    <id>http://yoursite.com/2020/07/12/生命的意义/</id>
+    <published>2020-07-11T16:00:00.000Z</published>
+    <updated>2020-07-12T10:23:12.732Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>​    我认为当你拥有独立思维的时候，就应该去思考自己活在这个世界上的意义是什么。每个人经历不同，故而意义不分高低，只要清楚便好，盲目的活着如同行尸走肉，我们既然属于智能就应该想清楚这一点。</p><p>​    我便开始思考，我的生命意义是什么。我翻开了今年的目标清单，每看过一个心就凉三分，因为这些目标追寻根本无不来自于他人的期许以及自我肤浅的追求。于是我删掉了所有的目标，问自己你若是只有5年可活，要做些什么。有些想法变浮现在了我的脑海当中，我便带着这些想法去寻找一个答案。</p><p>​    我询问各类人他们的生命意义是什么。最后发现大多数人都不曾想过这个问题，因为他们面对这个问题时浮现的是一脸的错愕，还有很多人的意义近乎相同，比如询问背包客他们大多会告诉你活在当下，多看看世界，不违心，询问生活贫苦的人，他们会告诉你要赚很多的钱。我并不满足这样的回答我进行了刨根问底，比如要多看看世界是因为他人的目光还是来自内心对新鲜事物的快感？赚了钱要做什么?</p><p>我对多回答感到不能理解，直到我读到亚伯拉罕·马斯洛的《动机与人格》与维克多·E·弗兰克尔的《追求生命的意义》。《动机与人格》 提出人的需求分为七种：生理需求、安全需求、社交需求、尊重需求、认知需要、审美需要、自我实现。我终于明白每个人的经历不同所缺的需求自然不同，意义自然也是不同。《追求生命的意义》有一句话是这么说：人不应询问生命的意义是什么，而是必须认识到，正是生命本身向人提出了这个问题。我不在纠结与整体，而从自己出发，找到我的生命意义。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="Think" scheme="http://yoursite.com/categories/Think/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>如何计算访问一个磁盘扇区内容的平均时间</title>
@@ -46,7 +69,7 @@
     <link href="http://yoursite.com/2020/02/13/%E9%A1%B5%E9%9D%A2%E7%BD%AE%E6%8D%A2%E7%AE%97%E6%B3%95/"/>
     <id>http://yoursite.com/2020/02/13/页面置换算法/</id>
     <published>2020-02-12T16:00:00.000Z</published>
-    <updated>2020-02-13T07:05:12.396Z</updated>
+    <updated>2020-02-13T07:06:23.009Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>置换算法有四种：最佳置换(OPT)，先进先出(FIFO)(会产生Belady异常)，最近最少使用(LRU)，时钟(CLOCK)。<br>前三种都比较好理解，讨论第四种；时钟算法的发明是因为FIFO缺陷，意味着性能差，而LRU虽然高效，但实现起来又太复杂，故而产生CLOCk。<br>解释：<br>        附加一个使用位，1位表示被访问过的页，0位表示需要被替换的页。<br>        还有空闲块可以进页时直接置为1，没有空闲块需要替换页时，指针下移寻找0位的页替换；若全为1，则全部置0然后指针指向第一块进行替换</p>]]></content>
     
@@ -121,7 +144,7 @@
     <link href="http://yoursite.com/2020/01/27/%E5%85%B3%E4%BA%8E%E8%87%AA%E5%B7%B1/"/>
     <id>http://yoursite.com/2020/01/27/关于自己/</id>
     <published>2020-01-26T17:25:40.000Z</published>
-    <updated>2020-02-02T11:12:38.707Z</updated>
+    <updated>2020-07-12T10:23:23.713Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>&emsp;&emsp;这么长时间以来，我仍然没有找到一个我喜欢的圈子，和内心真正契合谈的上几句的朋友。一天有24个小时，除去睡觉7个小时,剩下的17个小时里我是有16个小时都想一个人呆着，不喜与人接触。我认为原因有几下几点。<br>&emsp;&emsp;追求本质，其实这和杂乱有关。先说杂乱，我的所看见的杂乱大到城市的建筑物和知识类目繁多，小到街上人们各式各样的衣服，电脑文件的属性归类。而我的解决方式就是去按照自己的想法去处理一遍(融入新的环境也是如此)，但某些无法处理的，我就会换一个角度去说服自己。可经常这样会很累，所以我会挖掘其本质直到挖到可以接受的那一层，本质往往就是简。最后梳理其演变出的事物，思路就会畅通。<br>&emsp;&emsp;喜欢上帝视角。人与人之间的差异在于思维方式的不同，正如一千个哈姆雷特。既然如此，这最重要的思维方式常受当下所处的环境，和正交谈的内容影响，很难做到以大统一的思维来对待每一件事物。我正在尝试，并与本质相结合。例如：对于一句话我会拆成多个独立的部分将其回归到本质，再进行分析；所以我没回应要么正是在思考这个东西，要么就是推断出了你意图的最终导向并不感兴 趣。绝大多数的交谈衔接不上我内心的某个点，况且还浪费时间。</p><p><img src="https://pic.downk.cc/item/5e2dce982fb38b8c3c9c9a79.jpg" alt="image"></p>]]></content>
     
@@ -134,12 +157,8 @@
     
     </summary>
     
-      <category term="Essay" scheme="http://yoursite.com/categories/Essay/"/>
+      <category term="Think" scheme="http://yoursite.com/categories/Think/"/>
     
-    
-      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-      <category term="三门" scheme="http://yoursite.com/tags/%E4%B8%89%E9%97%A8/"/>
     
   </entry>
   
@@ -148,7 +167,7 @@
     <link href="http://yoursite.com/2019/12/23/%E4%BD%95%E4%B8%BA%E5%AD%A4%E7%8B%AC%EF%BC%9F/"/>
     <id>http://yoursite.com/2019/12/23/何为孤独？/</id>
     <published>2019-12-23T15:47:40.000Z</published>
-    <updated>2020-02-02T11:12:48.951Z</updated>
+    <updated>2020-07-12T10:24:07.085Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>无红颜知己，无伯乐。<br>欲将愉悦之事与人分享。<br>分享之人？<br>一念附满心头<br>再念竟无一人<br>便觉可笑，做罢。<br>孤独再渗三分。<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;记与平安夜前一天，冬至后一天<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019年12月23日23点半</p>]]></content>
     
@@ -161,12 +180,8 @@
     
     </summary>
     
-      <category term="Essay" scheme="http://yoursite.com/categories/Essay/"/>
+      <category term="Think" scheme="http://yoursite.com/categories/Think/"/>
     
-    
-      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-      <category term="杭州" scheme="http://yoursite.com/tags/%E6%9D%AD%E5%B7%9E/"/>
     
   </entry>
   
