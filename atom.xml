@@ -1,27 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GuideFourthW</title>
+  <title>夜怀澈</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-12T10:23:12.732Z</updated>
+  <updated>2020-11-26T19:42:16.296Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>GuideFourthW</name>
+    <name>夜怀澈</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>致那些与我有过经历的人</title>
+    <link href="http://yoursite.com/2020/11/27/%E8%87%B3%E9%82%A3%E4%BA%9B%E4%B8%8E%E6%88%91%E6%9C%89%E8%BF%87%E7%BB%8F%E5%8E%86%E8%BF%87%E7%9A%84%E4%BA%BA/"/>
+    <id>http://yoursite.com/2020/11/27/至那些与我有过经历过的人/</id>
+    <published>2020-11-26T16:00:00.000Z</published>
+    <updated>2020-11-26T19:42:16.296Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;深夜里打开了回忆的盒子，看着相册中你与我的照片使我陷入了回忆当中，想起我们一起经历过的事情，真是温暖又美好…宇宙中两颗微小的粒子在一百亿年前就产生了碰撞，产生了一系列看起来微不足道的反应，最后诞生了我们的存在，而在今70多亿人当中，能与你拥有一段经历，真是我的幸运。<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;但是我们呀匆匆忙忙的遇见了，又匆匆忙忙的道别了，所以我必须要跟你道个歉，在这么长的时间里没有给你送去问候和关怀可能未来也没有（Laugh cry），因为我们都在奔赴各自不同的人生，我也会理解你的。虽然我不会常常想起你，但是你存在于我的世界里，当我迷茫了我会想起你，你能给予到我力量和灯塔。<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;再次谢谢你，希望你拥有一个幸福的人生。<br><img src="https://pic.downk.cc/item/5fc0021b15e771908435e671.jpg" alt="avatar"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="other" scheme="http://yoursite.com/categories/other/"/>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>西藏(川藏线和阿里大北线)</title>
+    <link href="http://yoursite.com/2020/09/23/%E8%A5%BF%E8%97%8F(%E5%B7%9D%E8%97%8F%E7%BA%BF%E5%92%8C%E9%98%BF%E9%87%8C%E5%A4%A7%E5%8C%97%E7%BA%BF)/"/>
+    <id>http://yoursite.com/2020/09/23/西藏(川藏线和阿里大北线)/</id>
+    <published>2020-09-22T16:00:00.000Z</published>
+    <updated>2020-11-26T20:52:02.736Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>第一次入藏，初次写游记，仅做粗略记录。<br>此次行程分为两部分：川藏线和阿里大北线<br>关于行李：行李去了后才发现带了很多无用，因为一路上都有县城，所以药物不需要带，提前复用红景天即可。食物和水适量就好。<br>*：有意思的地方<br>截图工具：xnip</p><p><img src="https://pic1.imgdb.cn/item/5fc0135e15e77190843b5af7.jpg" alt="avatar"></p><p><img src="https://pic1.imgdb.cn/item/5fc00dc115e7719084399411.jpg" alt="avatar"></p><p><img src="https://pic1.imgdb.cn/item/5fc00dd115e771908439995a.jpg" alt="avatar"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="look world" scheme="http://yoursite.com/categories/look-world/"/>
+    
+    
+      <category term="中国" scheme="http://yoursite.com/tags/%E4%B8%AD%E5%9B%BD/"/>
+    
+  </entry>
+  
+  <entry>
     <title>生命的意义</title>
     <link href="http://yoursite.com/2020/07/12/%E7%94%9F%E5%91%BD%E7%9A%84%E6%84%8F%E4%B9%89/"/>
     <id>http://yoursite.com/2020/07/12/生命的意义/</id>
     <published>2020-07-11T16:00:00.000Z</published>
-    <updated>2020-07-12T10:23:12.732Z</updated>
+    <updated>2020-11-26T19:15:19.116Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>​    我认为当你拥有独立思维的时候，就应该去思考自己活在这个世界上的意义是什么。每个人经历不同，故而意义不分高低，只要清楚便好，盲目的活着如同行尸走肉，我们既然属于智能就应该想清楚这一点。</p><p>​    我便开始思考，我的生命意义是什么。我翻开了今年的目标清单，每看过一个心就凉三分，因为这些目标追寻根本无不来自于他人的期许以及自我肤浅的追求。于是我删掉了所有的目标，问自己你若是只有5年可活，要做些什么。有些想法变浮现在了我的脑海当中，我便带着这些想法去寻找一个答案。</p><p>​    我询问各类人他们的生命意义是什么。最后发现大多数人都不曾想过这个问题，因为他们面对这个问题时浮现的是一脸的错愕，还有很多人的意义近乎相同，比如询问背包客他们大多会告诉你活在当下，多看看世界，不违心，询问生活贫苦的人，他们会告诉你要赚很多的钱。我并不满足这样的回答我进行了刨根问底，比如要多看看世界是因为他人的目光还是来自内心对新鲜事物的快感？赚了钱要做什么?</p><p>我对多回答感到不能理解，直到我读到亚伯拉罕·马斯洛的《动机与人格》与维克多·E·弗兰克尔的《追求生命的意义》。《动机与人格》 提出人的需求分为七种：生理需求、安全需求、社交需求、尊重需求、认知需要、审美需要、自我实现。我终于明白每个人的经历不同所缺的需求自然不同，意义自然也是不同。《追求生命的意义》有一句话是这么说：人不应询问生命的意义是什么，而是必须认识到，正是生命本身向人提出了这个问题。我不在纠结与整体，而从自己出发，找到我的生命意义。</p>]]></content>
     
@@ -34,8 +84,10 @@
     
     </summary>
     
-      <category term="Think" scheme="http://yoursite.com/categories/Think/"/>
+      <category term="other" scheme="http://yoursite.com/categories/other/"/>
     
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
@@ -44,7 +96,7 @@
     <link href="http://yoursite.com/2020/02/14/%E5%A6%82%E4%BD%95%E8%AE%A1%E7%AE%97%E8%AE%BF%E9%97%AE%E4%B8%80%E4%B8%AA%E7%A3%81%E7%9B%98%E6%89%87%E5%8C%BA%E5%86%85%E5%AE%B9%E7%9A%84%E5%B9%B3%E5%9D%87%E6%97%B6%E9%97%B4/"/>
     <id>http://yoursite.com/2020/02/14/如何计算访问一个磁盘扇区内容的平均时间/</id>
     <published>2020-02-13T16:00:00.000Z</published>
-    <updated>2020-02-14T15:48:50.371Z</updated>
+    <updated>2020-11-26T19:17:10.466Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>X(转一次的时间=) 60 / 旋转速率</p><p>平均寻道时间： 读写头沿径向移动，移到要读取的扇区所在磁道的上方所花费的时间。通常为3-9ms，最大可达20ms<br>平均旋转延迟 = X / 2<br>平均传送时间 ≈ ( X )/ 一个磁道总的扇区数 * 1000ms/s</p><p>平均存取时间 = 平均寻道时间+平均旋转延迟 。读取一个扇区的时间很快，通道为零点几个毫秒。因此决定一个硬盘读写速度的是它的平均时间。<br>访问一个磁盘扇区内容的平均时间 = 平均寻道时间+平均旋转时间+平均传送时间</p>]]></content>
     
@@ -57,10 +109,10 @@
     
     </summary>
     
-      <category term="Computer" scheme="http://yoursite.com/categories/Computer/"/>
+      <category term="know world" scheme="http://yoursite.com/categories/know-world/"/>
     
     
-      <category term="计算机系统原理" scheme="http://yoursite.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/"/>
+      <category term="computer science" scheme="http://yoursite.com/tags/computer-science/"/>
     
   </entry>
   
@@ -69,7 +121,7 @@
     <link href="http://yoursite.com/2020/02/13/%E9%A1%B5%E9%9D%A2%E7%BD%AE%E6%8D%A2%E7%AE%97%E6%B3%95/"/>
     <id>http://yoursite.com/2020/02/13/页面置换算法/</id>
     <published>2020-02-12T16:00:00.000Z</published>
-    <updated>2020-02-13T07:06:23.009Z</updated>
+    <updated>2020-11-26T19:16:28.074Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>置换算法有四种：最佳置换(OPT)，先进先出(FIFO)(会产生Belady异常)，最近最少使用(LRU)，时钟(CLOCK)。<br>前三种都比较好理解，讨论第四种；时钟算法的发明是因为FIFO缺陷，意味着性能差，而LRU虽然高效，但实现起来又太复杂，故而产生CLOCk。<br>解释：<br>        附加一个使用位，1位表示被访问过的页，0位表示需要被替换的页。<br>        还有空闲块可以进页时直接置为1，没有空闲块需要替换页时，指针下移寻找0位的页替换；若全为1，则全部置0然后指针指向第一块进行替换</p>]]></content>
     
@@ -82,10 +134,10 @@
     
     </summary>
     
-      <category term="Computer" scheme="http://yoursite.com/categories/Computer/"/>
+      <category term="know world" scheme="http://yoursite.com/categories/know-world/"/>
     
     
-      <category term="操作系统原理" scheme="http://yoursite.com/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86/"/>
+      <category term="computer science" scheme="http://yoursite.com/tags/computer-science/"/>
     
   </entry>
   
@@ -94,7 +146,7 @@
     <link href="http://yoursite.com/2020/02/06/%E6%8C%87%E4%BB%A4/"/>
     <id>http://yoursite.com/2020/02/06/指令/</id>
     <published>2020-02-05T16:00:00.000Z</published>
-    <updated>2020-02-06T15:59:21.843Z</updated>
+    <updated>2020-11-26T19:16:33.915Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><img src="https://pic.downk.cc/item/5e3c33d42fb38b8c3cf10608.png" alt="image"><br>转自知乎:有象无声</p>]]></content>
     
@@ -107,10 +159,10 @@
     
     </summary>
     
-      <category term="Computer" scheme="http://yoursite.com/categories/Computer/"/>
+      <category term="know world" scheme="http://yoursite.com/categories/know-world/"/>
     
     
-      <category term="计算机组成原理" scheme="http://yoursite.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+      <category term="computer science" scheme="http://yoursite.com/tags/computer-science/"/>
     
   </entry>
   
@@ -119,7 +171,7 @@
     <link href="http://yoursite.com/2020/02/02/%E5%8E%9F%E7%A0%81%EF%BC%8C%E5%8F%8D%E7%A0%81%EF%BC%8C%E8%A1%A5%E7%A0%81/"/>
     <id>http://yoursite.com/2020/02/02/原码，反码，补码/</id>
     <published>2020-02-01T16:00:00.000Z</published>
-    <updated>2020-02-04T11:37:07.635Z</updated>
+    <updated>2020-11-26T19:16:00.608Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><strong>原码</strong>： 一位符号位表示正负，7位表示真值。<br>    <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">[+1]原 = </span><br><span class="line">0000 0001 [-1]原 = </span><br><span class="line">1000 0001</span><br></pre></td></tr></table></figure></p><p><strong>反码</strong>：所有正数的反码是其本身;一位符号为表示正负，7位真值反转(解决计算机减法复杂问题，全部用加法代替)<br>    <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">1 - 1 = </span><br><span class="line">1 + (-1)= </span><br><span class="line">[0000 0001]原 + [1000 0001]原= </span><br><span class="line">[0000 0001]反 + [1111 1110]反= </span><br><span class="line">[1111 1111]反 = [1000 0000]原= -0</span><br></pre></td></tr></table></figure></p><p><strong>补码</strong>：所有正数的反码是其本身;反码加+1,解决反码运算出现符号0的问题，并增加了一位最小数的表示<br>    <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">(-1) + (-127) =</span><br><span class="line">[1000 0001]原 + [1111 1111]原= </span><br><span class="line">[1111 1111]补 + [1000 0001]补= </span><br><span class="line">[1000 0000]补</span><br></pre></td></tr></table></figure></p><p><strong>移码</strong>：补码符号位取反    </p>]]></content>
     
@@ -132,10 +184,10 @@
     
     </summary>
     
-      <category term="Computer" scheme="http://yoursite.com/categories/Computer/"/>
+      <category term="know world" scheme="http://yoursite.com/categories/know-world/"/>
     
     
-      <category term="计算机组成原理" scheme="http://yoursite.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+      <category term="computer science" scheme="http://yoursite.com/tags/computer-science/"/>
     
   </entry>
   
@@ -144,7 +196,7 @@
     <link href="http://yoursite.com/2019/12/23/%E4%BD%95%E4%B8%BA%E5%AD%A4%E7%8B%AC%EF%BC%9F/"/>
     <id>http://yoursite.com/2019/12/23/何为孤独？/</id>
     <published>2019-12-23T15:47:40.000Z</published>
-    <updated>2020-07-12T10:24:07.085Z</updated>
+    <updated>2020-11-26T19:16:44.847Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>无红颜知己，无伯乐。<br>欲将愉悦之事与人分享。<br>分享之人？<br>一念附满心头<br>再念竟无一人<br>便觉可笑，做罢。<br>孤独再渗三分。<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;记与平安夜前一天，冬至后一天<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019年12月23日23点半</p>]]></content>
     
@@ -157,8 +209,10 @@
     
     </summary>
     
-      <category term="Think" scheme="http://yoursite.com/categories/Think/"/>
+      <category term="other" scheme="http://yoursite.com/categories/other/"/>
     
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
